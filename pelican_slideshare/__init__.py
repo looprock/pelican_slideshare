@@ -28,4 +28,4 @@ __status__ = "Stable"
 __license__ = 'MIT'
 __copyright__ = 'Copyright 2015'
 
-from pelican_vimeo.vimeo import register
+from pelican_slideshare.slideshare import register
