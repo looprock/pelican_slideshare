@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-version = __import__('pelican_vimeo').__version__
+version = __import__('pelican_slideshare').__version__
 download_url = 'https://github.com/looprock/pelican_slideshare/archive/{}.zip'.format(version)
 
 setup(name='pelican_slideshare',

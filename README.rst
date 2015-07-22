@@ -57,7 +57,7 @@ Which will result in:
 
 .. code-block:: html
 
-    <div class="vimeo" align="center">
+    <div class="slideshare" align="center">
     <iframe width="800" height="500" src="https://www.slideshare.net/slideshow/embed_code/key/2UU5C0fJf2cygQ" frameborder="0"></iframe>
     </div>
 
